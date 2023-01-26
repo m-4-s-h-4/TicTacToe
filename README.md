@@ -1,2 +1,2 @@
 # tictactoe
-python tic-tac-toe with pyjama
+python tic-tac-toe with pygame
